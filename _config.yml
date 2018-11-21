@@ -1,0 +1,16 @@
+title: Birdhouse
+logo: /assets/birdhouse-logo.png
+author: Copyright © 2018 Project Birdhouse
+# email: ehbrecht@dkrz.de
+theme: minima
+description: >
+  Climate data analytics for sustainable development using OGC standards.
+
+# social links
+github_username: bird-house
+gitter_username: bird-house
+
+header_pages:
+  - about.md
+  #- documentation.md
+  - contact.md
