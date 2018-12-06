@@ -9,6 +9,8 @@ for climate data analysis.
 Birdhouse is released under the
 [Apache License, Version 2.0](http://birdhouse.readthedocs.io/en/latest/license.html).
 
+Birdhouse works in close collaboration with the [![](/assets/geopython-logo.png){:height="50px"} GeoPython](http://geopython.github.io/) project.
+
 ## Institutional Support
 
 The following institutions are contributing to birdhouse:
@@ -16,8 +18,6 @@ The following institutions are contributing to birdhouse:
 [![](/assets/ceda-logo.png){:height="50px"}](http://www.ceda.ac.uk/) | [![](/assets/dkrz-logo.png){:height="50px"}](https://www.dkrz.de/?set_language=en&cl=en) | [![](/assets/ipsl-logo.png){:height="50px"}](https://www.ipsl.fr/en)
 
 [![](/assets/crim-logo.jpg){:height="100px"}](https://www.crim.ca/en) | [![](/assets/ouranos-logo.svg){:height="50px"}](https://www.ouranos.ca/en/)
-
-
 
 ## Projects using Birdhouse
 
