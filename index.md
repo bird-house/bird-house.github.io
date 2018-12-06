@@ -21,9 +21,4 @@ application in support of web-based geospatial (climate) data analysis. Birdhous
 
 We already have several WPS compute services for climate data analysis, like [FlyingPigeon](https://flyingpigeon.readthedocs.io/en/latest/) and [Finch](https://github.com/bird-house/finch).
 
-Birdhouse works in close collaboration with the [![](/assets/geopython-logo.png){:height="50px"} GeoPython](http://geopython.github.io/) project.
-
-# Get Started
-* [Try the Demo](https://bovec.dkrz.de/)
-* [Play with Emu, a demo PyWPS service](https://emu.readthedocs.io/en/latest/)
-* [Read the Docs](https://birdhouse.readthedocs.io/en/latest/)
+[Learn more ...](/getstarted)
