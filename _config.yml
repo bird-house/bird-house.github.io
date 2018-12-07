@@ -8,9 +8,9 @@ description: >
 
 # social links
 github_username: bird-house
-gitter_username: bird-house
 
 header_pages:
   - about.md
+  - getstarted.md
   #- documentation.md
   - contact.md
