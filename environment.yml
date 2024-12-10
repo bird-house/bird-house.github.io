@@ -1,0 +1,8 @@
+name: birdhouse2
+channels:
+- conda-forge
+dependencies:
+- pip
+- python>=3.10,<3.13
+# docs
+- mkdocs
