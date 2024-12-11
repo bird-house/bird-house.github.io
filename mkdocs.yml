@@ -18,7 +18,9 @@ nav:
 use_directory_urls: true
 
 theme:
-    name: mkdocs
+    name: material
+    logo: images/birdhouse.svg
+    favicon: images/favicon.ico
 
 plugins:
     - search
