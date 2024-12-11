@@ -5,4 +5,3 @@ If you are interested in finding out more about the project please check the fol
 * Follow our activities on [GitHub](https://github.com/bird-house).
 
 You are welcome to join, open issues and provide pull-requests.
-See also our [documentation](https://birdhouse.readthedocs.io/en/latest/communication.html).
