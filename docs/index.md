@@ -2,7 +2,7 @@
 layout: home
 ---
 
-| ![](/assets/birdhouse-ecosphere.svg) |
+| ![](images/birdhouse-ecosphere.svg) |
 | :--: |
 | **Build your own OGC Web Processing Service for geospatial data analysis.** |
 
@@ -20,5 +20,3 @@ application in support of web-based geospatial (climate) data analysis. Birdhous
   to provide access control to OGC/WPS compute services.
 
 We already have several WPS compute services for climate data analysis, like [FlyingPigeon](https://flyingpigeon.readthedocs.io/en/latest/) and [Finch](https://github.com/bird-house/finch).
-
-[Learn more ...](/getstarted)
