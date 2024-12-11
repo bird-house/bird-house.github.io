@@ -1,7 +1,7 @@
 # Birdhouse Website
 
-[![Build Status](https://travis-ci.org/bird-house/bird-house.github.io.svg?branch=master)](https://travis-ci.org/bird-house/bird-house.github.io)
-[![GitHub license](https://img.shields.io/github/license/bird-house/bird-house.github.io.svg)](https://github.com/bird-house/bird-house.github.io/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/bird-house/bird-house.github.io.svg)](https://github.com/bird-house/bird-house.github.io/blob/main/LICENSE)
+[![Join the chat at Gitter](https://badges.gitter.im/bird-house/birdhouse.svg)](https://gitter.im/bird-house/birdhouse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is the source of the [Birdhouse Website](https://bird-house.github.io/).
 
