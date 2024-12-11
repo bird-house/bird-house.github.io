@@ -1,9 +1,6 @@
----
-layout: page
-title: Documentation
-permalink: /documentation/
----
 Find out more about how we are doing these things:
 
-* [Documentation](http://birdhouse.readthedocs.io/en/latest/)
-* [Guidelines](https://birdhouse.readthedocs.io/en/latest/guidelines.html)
+* [Latest (main)](https://birdhouse2-docs.readthedocs.io/en/latest/)
+
+* [Legacy documentation](https://birdhouse.readthedocs.io/en/latest/)
+
