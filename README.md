@@ -19,8 +19,8 @@ It can be helpful to preview changes on your computer before opening a pull requ
 Clone this repository locally, and cd into it:
 
 ```console
-$ git clone https://github.com/bird-house/bird-house.github.io
-$ cd bird-house.github.io
+git clone https://github.com/bird-house/bird-house.github.io
+cd bird-house.github.io
 ```
 
 
@@ -31,16 +31,16 @@ conda env create
 conda activate birdhouse2
 ```
 
-Now you can ask mkdocs to build the website:
+Now you can ask `mkdocs` to build the website:
 
-```
+```console
 mkdocs build
 mkdocs serve
 ```
 
 Point your browser at http://127.0.0.1:8000/.
 
-Edit the various parts, mkdocs should automatically rebuild and
+Edit the various parts, `mkdocs` should automatically rebuild and
 refresh the pages when changes occur.
 
 To stop serving the website, press **`Ctrl`**-`C` in your terminal.
@@ -56,5 +56,5 @@ It is written in [Markdown](https://guides.github.com/features/mastering-markdow
 
 The site has other pages written in Markdown like `about.md`.
 
-To customise the layout read the documentation of the [minima theme](https://github.com/jekyll/minima).
+To customise the layout read the documentation of [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
